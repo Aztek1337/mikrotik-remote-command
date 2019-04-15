@@ -7,8 +7,6 @@ echo "~                                    - By aa@aztek.xyz. -					            
 echo "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
 
 # Clears any left over data from previous runs
-echo "" > results.txt
-
 echo
 
 # Update routers.txt with routers IP address or FQDN
