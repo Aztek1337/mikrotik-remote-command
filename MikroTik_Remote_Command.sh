@@ -14,7 +14,7 @@ routers=$(<"PATH TO ROUTERS.TXT FILE")
 # Default generic command is currently added
 router_command="/user add name=user1 password=12345 group=read"
 
-# Echos command to verify coommand and routers
+# Echos command to verify command and routers
 echo -e "You will be running Command: '$router_command' \nOn routers:\n$routers  " 
 echo
 
