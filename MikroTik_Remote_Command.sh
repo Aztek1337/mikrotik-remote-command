@@ -6,9 +6,6 @@ echo "~                                       - Version: 1.0 -                  
 echo "~                                    - By aa@aztek.xyz. -					            ~" 
 echo "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
 
-# Clears any left over data from previous runs
-echo
-
 # Update routers.txt with routers IP address or FQDN
 routers=$(<"PATH TO ROUTERS.TXT FILE")
 
@@ -24,7 +21,6 @@ echo
 # Asks for username and password
 read -p "Please enter your Username: " USER
 read -sp "Please enter your Password: " PASS
-
 echo
 
 
